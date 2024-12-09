@@ -632,5 +632,8 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "output2XOXO": {
+    "file_name": "output2XOXO.json"
   }
 }
